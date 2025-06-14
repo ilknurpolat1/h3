@@ -1,0 +1,1 @@
+git içerisinde skor ile ilgili kod oluşturup yazdık.
